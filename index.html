@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/utility.css" />
+    <title>Spotify - Web Player: Music for everyone</title>
+  </head>
+  <body>
+    <main>
+      <div class="left">
+        <div class="home p-1">
+          <div class="logo">
+            <a href="/">
+              <img
+              src="images/svg/logo.svg"
+              alt="logo"
+              id="logo"
+              class="invert"
+              />
+            </a>
+            <img src="images/svg/cross.svg" alt="close" class="invert" id="cross">
+
+          </div>
+          
+          <ul>
+            <li>
+              <img src="images/svg/home.svg" alt="home" class="invert" />Home
+            </li>
+            <li>
+              <img
+                src="images/svg/search.svg"
+                alt="search-icon"
+                class="invert"
+              />Search
+            </li>
+          </ul>
+        </div>
+
+        <!-- Library START-->
+        <div class="library p-1">
+          <div class="library-top">
+            <button class="library-button">
+              <img
+                src="images/svg/library.svg"
+                alt="library-logo"
+                class="library-logo invert"
+              />
+              <h2>Your Songs</h2>
+            </button>
+          </div>
+
+          <!-- Library Middle part START -->
+
+          <div class="songList"></div>
+          <!-- Library Middle part END -->
+
+          <!-- Library Bottom part START -->
+          <div class="footer">
+            <a href="">Legal</a>
+            <a href="">Cookies</a>
+            <a href="">Safety & Privacy Center</a>
+            <a href="">About ads</a>
+            <a href="">Privacy Policy</a>
+            <a href="">Accessibility</a>
+          </div>
+          <!-- Library Bottom part END -->
+        </div>
+        <!-- Library END -->
+      </div>
+
+      <!-- Right Part -->
+      <div class="right">
+        <!-- Header START -->
+
+        <div class="header">
+          <div class="symbols">
+            <img src="images/svg/hamburger.svg" alt="hamburger" id="hamburger" class="invert hamburger">
+            <button class="go-back">
+              <img src="images/svg/lt.svg" alt="" />
+            </button>
+            <button class="go-forward">
+              <img src="images/svg/gt.svg" alt="" />
+            </button>
+          </div>
+          <div class="action-btn">
+            <button class="btn-signup">Sign up</button>
+            <button class="btn-login">Log in</button>
+          </div>
+        </div>
+        <!-- Header END -->
+
+        <div class="playlists">
+          <h2><a href="/">Spotify Playlists</a></h2>
+
+          <!-- song cards -->
+          <div class="songs">
+
+          </div>
+          <!-- song cards end -->
+        </div>
+
+        <div class="control-section">
+          <div class="controls">
+            <div id="song-title"></div>
+
+            <div class="control-icons">
+              <img
+                src="images/svg/previous.svg"
+                alt="previous-song"
+                id="previous"
+              />
+              <img src="images/svg/play.svg" alt="play-song" id="start" />
+              <img src="images/svg/next.svg" alt="next-song" id="next" />
+            </div>
+
+            <div class="timing"></div>
+            <div class="volume-controls">
+              <img
+                src="images/svg/volume-low.svg"
+                alt="volume"
+                id="volume-img"
+              />
+              <input type="range" min="0" max="100" id="volume" />
+            </div>
+          </div>
+
+          <div class="seekbar">
+            <div class="circle"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

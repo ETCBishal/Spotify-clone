@@ -1,0 +1,15 @@
+.p-1{
+    padding: 20px;
+}
+
+.margin-top-12px{
+    margin-top: 12px;
+}
+
+.text-size-12px{
+    font-size: 12px;
+}
+
+.invert{
+    filter:invert(1);
+}

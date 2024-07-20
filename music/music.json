@@ -1,0 +1,76 @@
+{
+    "folders": [
+      {
+        "name": "Angry",
+        "title": "Angry mood songs",
+        "description": "'Angry Mode' is a high-energy track with intense beats, aggressive guitar riffs, and raw vocals, perfect for channeling and amplifying your rage, offering a powerful and cathartic musical release.",
+        "cover": "cover.jpg",
+        "songs": [
+          "Cosmic - Lish Grooves.mp3",
+          "Lola Blanc-Angry Too (Lyric Video).mp3",
+          "SONGS TO DESTROY YOUR PR.mp3"
+        ]
+      },
+      {
+        "name": "CS",
+        "title": "Copyright songs",
+        "description": "'Copyright Song' humorously tackles the complexities of copyright issues with catchy lyrics and a playful melody, making light of legal intricacies while delivering an educational and entertaining musical experience.",
+        "cover": "cover.jpg",
+        "songs": [
+          "DJ Gimi-O x Ricky Rich x Dardan - Habibi [Albanian Remix].mp3",
+          "Ninho - No love feat. Ayra Starr (Clip officiel).mp3",
+          "Raataan Lambiyan  Official Video  Shershaah  Sidharth  Kiara  Tanishk B Jubin Nautiyal  Asees.mp3",
+          "Sarkar _ Jaura Phagwara (Official Video) Byg Byrd  Sarkar Ta Saadi Apni Ae  Latest Punjabi Song.mp3"
+        ]
+      },
+      
+      {
+        "name": "DeepSleep",
+        "title": "DeepSleep songs",
+        "description": "'DeepSleep' is a calming, soothing track with gentle melodies and serene soundscapes, designed to help you relax and drift into a peaceful, restorative sleep, ideal for unwinding and recharging.",
+        "cover": "cover.jpg",
+        "songs": [
+          "deep-relaxing-music-144008.mp3",
+          "free-royalty-zen-calm-deep-meditation-and-sleep-music-191592.mp3",
+          "meditation-relax-deep-sleep-quotc-majorquot-music-150647.mp3"
+        ]
+      },
+
+      {
+        "name": "Focus",
+        "title":"Focus Song",
+        "description":"This is a playlist full of songs which helps you focus better and eventually improves it.",
+        "cover": "cover.jpg",
+        "songs": [
+          "barradeen-bedtime-after-a-coffee.mp3",
+          "Constellations.mp3",
+          "Missing-You.mp3"
+        ]
+      },
+
+      
+      {
+        "name": "Gaming",
+        "title":"Gaming Song",
+        "description":"These songs provides you a better experiences while playing game, if you listen to them.",
+        "cover": "cover.jpg",
+        "songs": [
+          "Powerful-Trap.mp3",
+          "Sakura-Girl-Motivation.mp3"
+        ]
+      },
+
+      {
+        "name": "Warrior",
+        "title":"Warrior songs",
+        "description":"'Warrior Song' is a powerful anthem with epic melodies, driving percussion, and fierce vocals, designed to inspire strength and determination, perfect for conquering challenges and embracing your inner warrior.",
+        "cover": "cover.jpg",
+        "songs": [
+          "SHOORVEER - A Tribute to महरण परतप ज   Rapperiya Baalam  Rajneesh Jaipuri  Honey Trouper.mp3",
+          "SHOORVEER 3 - A Tribute to छतरपत शवज महरज  Rapperiya Baalam Ft. Shambho I Meetu Solanki.mp3",
+          "Swarajya Rakshak Sambhaji Maharaj - Full Title Serial Song - Zee Marathi.mp3"
+        ]
+      }
+    ]
+  }
+  
