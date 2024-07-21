@@ -3,7 +3,8 @@
 <h3>Responsiveness</h3>
 
 ### 1. Laptop
-![laptop view](https://github.com/user-attachments/assets/5e25a6ff-3f93-4f58-bd55-014e1a7881f0)
+![Laptop](https://github.com/user-attachments/assets/1472a5de-439d-4026-bc67-2eaf21a1e0df)
+
 ### 2.Mobile(iPhone 14 pro max)
-![iphone14promax](https://github.com/user-attachments/assets/1ffb6369-3e0e-468b-8b43-a7dfe97ad793)
-![left14pro](https://github.com/user-attachments/assets/39bbcb99-6634-46e2-ad80-a61dc6b6ff6c)
+![Mobile](https://github.com/user-attachments/assets/a4637e1a-dab0-41ee-b3c5-d8ef3a72ad86)
+![leftMobile](https://github.com/user-attachments/assets/524c5e0b-56eb-40cd-ac87-5fd547d7e00a)
