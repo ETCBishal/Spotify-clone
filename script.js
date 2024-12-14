@@ -91,7 +91,6 @@ async function main() {
 
       for (const song of songs) {      
         let songName = decodeURIComponent(song.split(`music/${selectFolder.name}/`)[1]);
-        console.log(song.split(`music/${selectFolder.name}/`)[1])
 
         let songCard = document.createElement("div");
         songCard.className = "song-card";
@@ -272,7 +271,6 @@ async function main() {
   let vImg = document.getElementById("volume-img");
   document.getElementById('volume').addEventListener("click", (e) => {
     volumeRange = volume.value / 100;
-    console.log(volumeRange)
     setVolumeImg(volumeRange);
   });
 
@@ -290,12 +288,10 @@ async function main() {
       audio.muted = true;
       volume.value = 0;
       setVolumeImg(audio.volume);
-      console.log("Muting the audio");
     } else {
       audio.muted = false;
       audio.volume = 0.2;
       volume.value = 20;
-      console.log("Unmuting");
       setVolumeImg(audio.volume);
     }
   });
@@ -318,7 +314,6 @@ async function main() {
   let cross = document.getElementById('cross');
   cross.addEventListener('click', () => {
     left.style.left = '-500vw';
-    console.log('Crossing');
   });
 }
 
